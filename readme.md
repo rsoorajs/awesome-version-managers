@@ -57,6 +57,7 @@
 - [pyenv-win](https://github.com/pyenv-win/pyenv-win) - A porting of pyenv for Windows.
 - [pyflow](https://github.com/David-OConnor/pyflow) - A multipurpose Python environment manager.
 - [pythonz](https://github.com/saghul/pythonz) - A program to automate the building and installation of Python versions.
+- [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
 ### Node.js
 
